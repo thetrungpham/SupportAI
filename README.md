@@ -28,4 +28,4 @@ The application is designed to:
 
 - Store chat histories (archives) so users can review previous conversations.
 
-g
+
